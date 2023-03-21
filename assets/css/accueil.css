@@ -1,0 +1,18 @@
+body {
+    font-family: "Karla", sans-serif;
+    background-color: #edf2f4;
+    min-height: 100vh;
+}
+header {
+    background-color: #8d99ae;
+}
+/* Cards */
+.affiche {
+    background-color: #edf2f4;
+}
+.affiche img {
+    height: 30vh;
+}
+.affiche a {
+    width: 10vw;
+}
